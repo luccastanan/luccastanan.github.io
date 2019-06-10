@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Luccas Galuppo Tanan]]></title><description><![CDATA[Formado em Ciência da Computação na UNIFIL (2018)
-Desenvolvedor mobile Java Android e React-Native Cross-Platform]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Jun 2019 18:24:57 GMT</lastBuildDate><item><title><![CDATA[Dominando seu Repositório no Github]]></title><description><![CDATA[Seu notebook ou desktop pode ser muito bom! Mas sempre é bom garantir né, por isso é muito importante ter seu código salvo em um repositório remoto, que você pode acessar e modificar de qualquer lugar.]]></description><link>https://lumen.netlify.com/posts/dominando-seu-repositorio-no-github/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/dominando-seu-repositorio-no-github/</guid><pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+Desenvolvedor mobile Java Android e React-Native Cross-Platform]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Jun 2019 18:36:46 GMT</lastBuildDate><item><title><![CDATA[Dominando seu Repositório no Github]]></title><description><![CDATA[Seu notebook ou desktop pode ser muito bom! Mas sempre é bom garantir né, por isso é muito importante ter seu código salvo em um repositório remoto, que você pode acessar e modificar de qualquer lugar.]]></description><link>https://lumen.netlify.com/posts/dominando-seu-repositorio-no-github/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/dominando-seu-repositorio-no-github/</guid><pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#por-onde-come%C3%A7ar&quot;&gt;Por onde começar?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#preparando-o-reposit%C3%B3rio-remoto&quot;&gt;Preparando o repositório remoto&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#preparando-seu-reposit%C3%B3rio-local&quot;&gt;Preparando seu repositório local&lt;/a&gt;&lt;/li&gt;
@@ -36,13 +36,13 @@ Desenvolvedor mobile Java Android e React-Native Cross-Platform]]></description>
 &lt;li&gt;
 &lt;p&gt;Acesse pasta do seu projeto (repositório local) pelo terminal (que no Windows é o Git Bash ou CMD, dependendo da forma que você fez a instalação do Git)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Digite &lt;code class=&quot;language-text&quot;&gt;git init&lt;/code&gt; e em seguida será criada uma pasta oculta “.git” na raiz do seu projeto &lt;img src=&quot;/media/git-init.png&quot; alt=&quot;Comando git init&quot;&gt;.&lt;/li&gt;
+&lt;li&gt;Digite &lt;code class=&quot;language-text&quot;&gt;git init&lt;/code&gt; e em seguida será criada uma pasta oculta “.git” na raiz do seu projeto. &lt;img src=&quot;/media/git-init.png&quot; alt=&quot;Comando git init&quot;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Vincule seu repositório local com o remoto&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Vá no seu projeto do Github e copie a URL do projeto &lt;img src=&quot;/media/github-empty-repository.png&quot; alt=&quot;URL do projeto&quot;&gt;&lt;/li&gt;
+&lt;li&gt;Vá no seu projeto no Github e copie a URL do projeto. &lt;img src=&quot;/media/github-empty-repository.png&quot; alt=&quot;URL do projeto&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Volte para o terminal e digite &lt;code class=&quot;language-text&quot;&gt;git remote add origin URL_PROJETO&lt;/code&gt;. &lt;img src=&quot;/media/git-remote-add.png&quot; alt=&quot;Comando git remote add&quot;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -54,10 +54,10 @@ Desenvolvedor mobile Java Android e React-Native Cross-Platform]]></description>
 &lt;p&gt;Acesse seu repositório local pelo terminal&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Digite &lt;code class=&quot;language-text&quot;&gt;git add .&lt;/code&gt;, este comando vai preparar todos arquivos alterados, adicionados e removitos para enviar para o repositório remoto. &lt;img src=&quot;/media/git-add.png&quot; alt=&quot;Comando git add&quot;&gt;&lt;/li&gt;
-&lt;li&gt;Digite &lt;code class=&quot;language-text&quot;&gt;git commit -m &amp;quot;MENSAGEM&amp;quot;&lt;/code&gt;, no local de MESSAGEM cloque algum comentário que te faça lembrar o que está enviando para o repositório, este comando vai criar o chamado COMMIT, que é um tipo de listagem com tudo de novo que seu repositório está recebendo. &lt;img src=&quot;/media/git-commit.png&quot; alt=&quot;Comando git commit&quot;&gt;
+&lt;li&gt;Digite &lt;code class=&quot;language-text&quot;&gt;git commit -m &amp;quot;MENSAGEM&amp;quot;&lt;/code&gt;, no local de MESSAGEM entre com algum comentário que te faça lembrar o que está enviando para o repositório, este comando vai criar o chamado COMMIT, que é um tipo de listagem com tudo de novo que seu repositório está recebendo. &lt;img src=&quot;/media/git-commit.png&quot; alt=&quot;Comando git commit&quot;&gt;
 *&lt;em&gt;OBS: o resultado pode ser um pouco diferente da imagem a cima, tudo depende a sua instalação e configuração do Git&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Digite &lt;code class=&quot;language-text&quot;&gt;git push origin master&lt;/code&gt; para enviar seu commit para o repositório remoto. &lt;img src=&quot;/media/git-push.png&quot; alt=&quot;Comando git push&quot;&gt;
-*&lt;em&gt;OBS: talvez seja pedido seu usuário e senha do Github, tudo depende a sua instalação e configuração do Git&lt;/em&gt;&lt;/li&gt;
+*&lt;em&gt;OBS: talvez seja necessário entrar com seu usuário e senha do Github, tudo depende a sua instalação e configuração do Git&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</content:encoded></item></channel></rss>
