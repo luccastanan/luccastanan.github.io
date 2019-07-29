@@ -78,6 +78,20 @@
   Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
   Link: </1-c571db2944e3a31651ff.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-66904580dfc54d9b8ed1.js>; rel=preload; as=script
+/pages/portfolio/
+  Link: </webpack-runtime-54579d036f09a58f3400.js>; rel=preload; as=script
+  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
+  Link: </app-daf28e53323b641f2783.js>; rel=preload; as=script
+  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
+  Link: </1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-66904580dfc54d9b8ed1.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-54579d036f09a58f3400.js>; rel=preload; as=script
+  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
+  Link: </app-daf28e53323b641f2783.js>; rel=preload; as=script
+  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
+  Link: </1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-66904580dfc54d9b8ed1.js>; rel=preload; as=script
 /posts/dominando-seu-repositorio-no-github/
   Link: </webpack-runtime-54579d036f09a58f3400.js>; rel=preload; as=script
   Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
@@ -86,20 +100,6 @@
   Link: </1-c571db2944e3a31651ff.js>; rel=preload; as=script
   Link: </2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5a544a9d7ab7e42ba4ff.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-54579d036f09a58f3400.js>; rel=preload; as=script
-  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
-  Link: </app-daf28e53323b641f2783.js>; rel=preload; as=script
-  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
-  Link: </1-c571db2944e3a31651ff.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-66904580dfc54d9b8ed1.js>; rel=preload; as=script
-/pages/portfolio/
-  Link: </webpack-runtime-54579d036f09a58f3400.js>; rel=preload; as=script
-  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
-  Link: </app-daf28e53323b641f2783.js>; rel=preload; as=script
-  Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
-  Link: </1-c571db2944e3a31651ff.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-66904580dfc54d9b8ed1.js>; rel=preload; as=script
 /tag/gh-pages
   Link: </webpack-runtime-54579d036f09a58f3400.js>; rel=preload; as=script
   Link: </styles-e2907a18c33d8fd17df9.js>; rel=preload; as=script
